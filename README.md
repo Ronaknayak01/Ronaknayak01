@@ -81,8 +81,8 @@
 <br/>
 
 <div align="center">
-  <a href="https://github.com/Ronaknayak01/IDragon-Advantures">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ronaknayak01&repo=IDragon-Advantures&theme=react&border_color=61dafb&border_radius=10" alt="IDragon Adventures Repository" />
+  <a href="https://github.com/Ronaknayak01/Farmlytics">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ronaknayak01&repo=Farmlytics&theme=react&border_color=61dafb&border_radius=10" alt="Farmlytics Repository" />
   </a>
   <a href="https://github.com/Ronaknayak01/GoCuisine">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ronaknayak01&repo=GoCuisine&theme=react&border_color=61dafb&border_radius=10" alt="GoCuisine Repository" />
