@@ -65,12 +65,14 @@
 - *CodeForces:* Achieved a contest rating of 1600+ (max. Expert), with a personal best rank of 999
 
 ### 🚀 Projects:
-- *IDragon Adventures:*
+- *Farmlytics:*
   - Developed an adventure game with interactive gameplay mechanics using HTML, CSS, and JavaScript
   - Achieved a 40% increase in user engagement and a 25% boost in replayability
 - *GoCuisine:*
-  - Created a food delivery platform using React, Node.js, and MongoDB, with optimized API response times
-  - Enhanced reliability with validations and checks, and improved order management through an intuitive admin interface
+  - Engineered a data-driven Crop & Fertilizer Recommendation system using Flask REST API and scikit-learn to suggest
+optimal crops and fertilizer dosages based on soil NPK, pH, moisture, temperature, and rainfall data
+  - Created a TensorFlow-powered Crop Disease Detection pipeline within a Bootstrap frontend for real-time plant
+health diagnoses, and containerized the app with Docker for scalable deployment
 - *CryptoMania:*
   - Built a cryptocurrency information hub with real-time and historical data visualization using Chart.js
   - Provided detailed data on the top 100 cryptocurrencies, including price, exchanges, trade volume, and market rank
