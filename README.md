@@ -62,7 +62,7 @@
 ### 🥇 Competitive Programming:
 - *LeetCode:* Solved over 500 problems
 - *CodeChef:* 4⭐ with a highest rating of 1834, Ranked 59 globally in CodeChef Starters 162
-- *CodeForces:* Achieved a contest rating of 1600+ (max. Expert), with a personal best rank of 999
+- *CodeForces:* Achieved a contest rating of 1688 (max. Expert), with a personal best rank of 440
 
 ### 🚀 Projects:
 - *Farmlytics:*
